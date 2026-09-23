@@ -1,6 +1,6 @@
 # Network Protocol Explorer
 
-Submitted by: **[Your Name]**
+Submitted by: **Kavya Gautam**
 
 This is a listicle web app for CodePath WEB103 Unit 1 Project 1.
 
@@ -36,7 +36,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-TODO: Add GIF walkthrough before submission
+[WEB103_Unit1_Demo.webm](./WEB103_Unit1_Demo.webm)
 
 ## Notes
 
