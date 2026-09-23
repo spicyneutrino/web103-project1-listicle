@@ -1,0 +1,13 @@
+{
+  "name": "web103-project1-listicle",
+  "version": "1.0.0",
+  "description": "Network Protocol Explorer - a listicle web app for CS students learning networking protocols",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@picocss/pico": "^2.1.1",
+    "express": "^4.22.3"
+  }
+}
